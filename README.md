@@ -1,6 +1,6 @@
 # Scrabble
 
-# English
+## English
 
 This program is a C++ implementation of the Scrabble board game, playable in terminal.
 
@@ -12,7 +12,7 @@ This program is a C++ implementation of the Scrabble board game, playable in ter
 
 Compile with `make` and run with `./scrabble`. Test information in tests/TESTING_README.md
 
-# Français
+## Français
 
 Cette application est une implémentation du jeu de plateau Scrabble, jouable dans le terminal à code. 
 
