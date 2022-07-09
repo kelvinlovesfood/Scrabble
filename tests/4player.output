@@ -1,0 +1,331 @@
+Four player mode enabled.
+
+Welcome to Scrabble!
+-------------------
+
+Menu
+----
+1. New Game
+2. Load Game
+3. Credits (Show student information)
+4. Quit
+
+> Enter the filename from which load a game
+> Game loaded successfully
+CCC, it's your turn
+Score for AAA: 4
+Score for BBB: 0
+Score for CCC: 8
+Score for DDD: 12
+
+     0   1   2   3   4   5   6   7   8   9   10  11  12  13  14
+   -------------------------------------------------------------
+ A |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+ B |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+ C |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+ D |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+ E |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+ F |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+ G |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+ H |   |   |   |   |   |   |   | L | I | E | E |   |   |   |   |
+ I |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+ J |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+ K |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+ L |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+ M |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+ N |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+ O |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+
+Your hand is
+A-1 E-1 U-1 A-1 E-1 T-1 
+
+Please choose an option:
+replace
+place
+save
+pass
+
+> > > > > 
+DDD, it's your turn
+Score for AAA: 4
+Score for BBB: 0
+Score for CCC: 12
+Score for DDD: 12
+
+     0   1   2   3   4   5   6   7   8   9   10  11  12  13  14
+   -------------------------------------------------------------
+ A |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+ B |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+ C |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+ D |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+ E |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+ F |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+ G |   |   |   |   |   |   |   | E |   |   |   |   |   |   |   |
+ H |   |   |   |   |   |   |   | L | I | E | E |   |   |   |   |
+ I |   |   |   |   |   |   |   | A |   |   |   |   |   |   |   |
+ J |   |   |   |   |   |   |   | T |   |   |   |   |   |   |   |
+ K |   |   |   |   |   |   |   | E |   |   |   |   |   |   |   |
+ L |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+ M |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+ N |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+ O |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+
+Your hand is
+Z-10 H-4 A-1 E-1 U-1 T-1 
+
+Please choose an option:
+replace
+place
+save
+pass
+
+> > > Invalid input
+> > 
+AAA, it's your turn
+Score for AAA: 4
+Score for BBB: 0
+Score for CCC: 12
+Score for DDD: 18
+
+     0   1   2   3   4   5   6   7   8   9   10  11  12  13  14
+   -------------------------------------------------------------
+ A |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+ B |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+ C |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+ D |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+ E |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+ F |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+ G |   |   |   |   |   |   |   | E |   |   |   |   |   |   |   |
+ H |   |   |   |   |   |   |   | L | I | E | E |   |   |   |   |
+ I |   |   |   |   |   |   |   | A |   |   |   |   |   |   |   |
+ J |   |   |   |   |   |   |   | T |   |   |   |   |   |   |   |
+ K |   |   |   |   | H | A | T | E |   |   |   |   |   |   |   |
+ L |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+ M |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+ N |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+ O |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+
+Your hand is
+S-1 D-2 E-1 Y-4 I-1 P-3 R-1 
+
+Please choose an option:
+replace
+place
+save
+pass
+
+> > > > > 
+BBB, it's your turn
+Score for AAA: 14
+Score for BBB: 0
+Score for CCC: 12
+Score for DDD: 18
+
+     0   1   2   3   4   5   6   7   8   9   10  11  12  13  14
+   -------------------------------------------------------------
+ A |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+ B |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+ C |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+ D |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+ E |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+ F |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+ G |   |   |   |   |   |   |   | E |   |   | D |   |   |   |   |
+ H |   |   |   |   |   |   |   | L | I | E | E |   |   |   |   |
+ I |   |   |   |   |   |   |   | A |   |   | R |   |   |   |   |
+ J |   |   |   |   |   |   |   | T |   |   | P |   |   |   |   |
+ K |   |   |   |   | H | A | T | E |   |   | Y |   |   |   |   |
+ L |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+ M |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+ N |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+ O |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+
+Your hand is
+O-1 E-1 S-1 I-1 H-4 L-1 F-4 
+
+Please choose an option:
+replace
+place
+save
+pass
+
+> > > > 
+CCC, it's your turn
+Score for AAA: 14
+Score for BBB: 3
+Score for CCC: 12
+Score for DDD: 18
+
+     0   1   2   3   4   5   6   7   8   9   10  11  12  13  14
+   -------------------------------------------------------------
+ A |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+ B |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+ C |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+ D |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+ E |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+ F |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+ G |   |   |   |   |   |   |   | E |   |   | D |   |   |   |   |
+ H |   |   |   |   |   |   |   | L | I | E | E |   |   |   |   |
+ I |   |   |   |   |   |   |   | A | L | O | R | S |   |   |   |
+ J |   |   |   |   |   |   |   | T |   |   | P |   |   |   |   |
+ K |   |   |   |   | H | A | T | E |   |   | Y |   |   |   |   |
+ L |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+ M |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+ N |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+ O |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+
+Your hand is
+U-1 A-1 Y-4 O-1 O-1 B-3 
+
+Please choose an option:
+replace
+place
+save
+pass
+
+> Passing turn...
+
+DDD, it's your turn
+Score for AAA: 14
+Score for BBB: 3
+Score for CCC: 12
+Score for DDD: 18
+
+     0   1   2   3   4   5   6   7   8   9   10  11  12  13  14
+   -------------------------------------------------------------
+ A |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+ B |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+ C |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+ D |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+ E |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+ F |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+ G |   |   |   |   |   |   |   | E |   |   | D |   |   |   |   |
+ H |   |   |   |   |   |   |   | L | I | E | E |   |   |   |   |
+ I |   |   |   |   |   |   |   | A | L | O | R | S |   |   |   |
+ J |   |   |   |   |   |   |   | T |   |   | P |   |   |   |   |
+ K |   |   |   |   | H | A | T | E |   |   | Y |   |   |   |   |
+ L |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+ M |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+ N |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+ O |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+
+Your hand is
+Z-10 E-1 U-1 A-1 R-1 O-1 
+
+Please choose an option:
+replace
+place
+save
+pass
+
+> Passing turn...
+
+AAA, it's your turn
+Score for AAA: 14
+Score for BBB: 3
+Score for CCC: 12
+Score for DDD: 18
+
+     0   1   2   3   4   5   6   7   8   9   10  11  12  13  14
+   -------------------------------------------------------------
+ A |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+ B |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+ C |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+ D |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+ E |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+ F |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+ G |   |   |   |   |   |   |   | E |   |   | D |   |   |   |   |
+ H |   |   |   |   |   |   |   | L | I | E | E |   |   |   |   |
+ I |   |   |   |   |   |   |   | A | L | O | R | S |   |   |   |
+ J |   |   |   |   |   |   |   | T |   |   | P |   |   |   |   |
+ K |   |   |   |   | H | A | T | E |   |   | Y |   |   |   |   |
+ L |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+ M |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+ N |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+ O |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+
+Your hand is
+S-1 E-1 I-1 M-3 V-4 U-1 W-4 
+
+Please choose an option:
+replace
+place
+save
+pass
+
+> Passing turn...
+
+BBB, it's your turn
+Score for AAA: 14
+Score for BBB: 3
+Score for CCC: 12
+Score for DDD: 18
+
+     0   1   2   3   4   5   6   7   8   9   10  11  12  13  14
+   -------------------------------------------------------------
+ A |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+ B |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+ C |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+ D |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+ E |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+ F |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+ G |   |   |   |   |   |   |   | E |   |   | D |   |   |   |   |
+ H |   |   |   |   |   |   |   | L | I | E | E |   |   |   |   |
+ I |   |   |   |   |   |   |   | A | L | O | R | S |   |   |   |
+ J |   |   |   |   |   |   |   | T |   |   | P |   |   |   |   |
+ K |   |   |   |   | H | A | T | E |   |   | Y |   |   |   |   |
+ L |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+ M |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+ N |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+ O |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+
+Your hand is
+E-1 I-1 H-4 F-4 A-1 D-2 R-1 
+
+Please choose an option:
+replace
+place
+save
+pass
+
+> Passing turn...
+
+CCC, it's your turn
+Score for AAA: 14
+Score for BBB: 3
+Score for CCC: 12
+Score for DDD: 18
+
+     0   1   2   3   4   5   6   7   8   9   10  11  12  13  14
+   -------------------------------------------------------------
+ A |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+ B |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+ C |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+ D |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+ E |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+ F |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+ G |   |   |   |   |   |   |   | E |   |   | D |   |   |   |   |
+ H |   |   |   |   |   |   |   | L | I | E | E |   |   |   |   |
+ I |   |   |   |   |   |   |   | A | L | O | R | S |   |   |   |
+ J |   |   |   |   |   |   |   | T |   |   | P |   |   |   |   |
+ K |   |   |   |   | H | A | T | E |   |   | Y |   |   |   |   |
+ L |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+ M |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+ N |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+ O |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+
+Your hand is
+U-1 A-1 Y-4 O-1 O-1 B-3 
+
+Please choose an option:
+replace
+place
+save
+pass
+
+> You cannot pass your turn twice in a row.
+
+Game over
+Score for AAA: 14
+Score for BBB: 3
+Score for CCC: 12
+Score for DDD: 18

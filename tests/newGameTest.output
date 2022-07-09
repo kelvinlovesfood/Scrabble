@@ -1,0 +1,85 @@
+Welcome to Scrabble!
+-------------------
+
+Menu
+----
+1. New Game
+2. Load Game
+3. Credits (Show student information)
+4. Quit
+
+> 
+Starting a New Game
+Enter a name for player 1 (uppercase characters only)
+> Enter a name for player 2 (uppercase characters only)
+> 
+Let's Play!
+
+A, it's your turn
+Score for A: 0
+Score for B: 0
+
+     0   1   2   3   4   5   6   7   8   9   10  11  12  13  14
+   -------------------------------------------------------------
+ A |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+ B |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+ C |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+ D |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+ E |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+ F |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+ G |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+ H |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+ I |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+ J |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+ K |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+ L |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+ M |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+ N |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+ O |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+
+Your hand is
+E-1 U-1 W-4 E-1 M-3 S-1 D-2 
+
+Please choose an option:
+replace
+place
+save
+pass
+
+> 
+B, it's your turn
+Score for A: 0
+Score for B: 0
+
+     0   1   2   3   4   5   6   7   8   9   10  11  12  13  14
+   -------------------------------------------------------------
+ A |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+ B |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+ C |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+ D |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+ E |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+ F |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+ G |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+ H |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+ I |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+ J |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+ K |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+ L |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+ M |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+ N |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+ O |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+
+Your hand is
+G-2 B-3 B-3 Q-10 O-1 T-1 R-1 
+
+Please choose an option:
+replace
+place
+save
+pass
+
+> 
+Game over
+Score for A: 0
+Score for B: 0
+Player A won!
